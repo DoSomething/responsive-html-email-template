@@ -1,10 +1,14 @@
-The DoSomething.org email template to use for Customer.io emails, forked from http://leemunroe.github.io/responsive-html-email-template/email.html (which was [recommended by Customer.io](https://customer.io/docs/4-email-design-resources))
+The DoSomething.org email template to use for Customer.io emails, forked from http://leemunroe.github.io/responsive-html-email-template per [recommendation by Customer.io](https://customer.io/docs/4-email-design-resources).
+
+This email template contains `<style>` tags -- [Customer.io adds the styles inline to the email before it is sent](https://customer.io/docs/disable-premailer). 
+
 
 ## Contributing
 
 Our default Customer.io email layout should be the same as the `email.html` in this project.
 
 To deploy a new release, copy paste the new `email.html` content into our default Email Template in Customer.io :scissors: :art:
+
 
 ## Usage
 
